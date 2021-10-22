@@ -8,3 +8,4 @@ code --install-extension dbaeumer.vscode-eslint
 code --install-extension hediet.vscode-drawio
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vscode-remote.remote-containers
+code --install-extension hashicorp.terraform
