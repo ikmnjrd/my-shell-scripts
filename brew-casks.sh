@@ -8,3 +8,6 @@ brew install alfred --cask
 brew install microsoft-edge --cask
 brew install slack --cask
 brew install sublime-text --cask
+brew install --cask google-cloud-sdk
+## install google-cloud-sdk for zsh users
+# source "$(brew --prefix)/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.zsh.inc"
