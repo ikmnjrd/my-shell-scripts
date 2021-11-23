@@ -9,5 +9,6 @@ brew install microsoft-edge --cask
 brew install slack --cask
 brew install sublime-text --cask
 brew install --cask google-cloud-sdk
+brew install --cask brave-browser
 ## install google-cloud-sdk for zsh users
 # source "$(brew --prefix)/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.zsh.inc"
