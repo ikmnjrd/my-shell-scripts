@@ -12,7 +12,6 @@ code --install-extension hashicorp.terraform
 code --install-extension ms-ceintl.vscode-language-pack-ja
 ## 便利ツール
 code --install-extension oderwat.indent-rainbow
-code --install-extension coenraads.bracket-pair-colorizer
 code --install-extension shardulm94.trailing-spaces
 ## draw.io
 code --install-extension hediet.vscode-drawio
