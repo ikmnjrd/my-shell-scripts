@@ -12,5 +12,6 @@ brew install --cask google-cloud-sdk
 brew install --cask brave-browser
 brew install --cask gimp
 brew install --cask blackhole-2ch
+brew install --cask krisp
 ## install google-cloud-sdk for zsh users
 # source "$(brew --prefix)/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.zsh.inc"
