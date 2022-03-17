@@ -23,3 +23,5 @@ code --install-extension be5invis.toml
 ## CSS
 code --install-extension bradlc.vscode-tailwindcss
 code --install-extension csstools.postcss
+## GraphQL
+code --install-extension graphql.vscode-graphql
