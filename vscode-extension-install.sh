@@ -25,3 +25,5 @@ code --install-extension bradlc.vscode-tailwindcss
 code --install-extension csstools.postcss
 ## GraphQL
 code --install-extension graphql.vscode-graphql
+## vue
+code --install-extension octref.vetur
