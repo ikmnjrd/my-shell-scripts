@@ -1,7 +1,5 @@
 #!/bin/bash
 
-## フロント
-code --install-extension dbaeumer.vscode-eslint
 ## インフラ
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension toba.vsfire
@@ -27,3 +25,7 @@ code --install-extension csstools.postcss
 code --install-extension graphql.vscode-graphql
 ## vue
 code --install-extension octref.vetur
+## lint
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension stylelint.vscode-stylelint
+code --install-extension esbenp.prettier-vscode
