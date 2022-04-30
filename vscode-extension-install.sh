@@ -15,6 +15,8 @@ code --install-extension shardulm94.trailing-spaces
 code --install-extension hediet.vscode-drawio
 ## マークダウン
 code --install-extension yzhang.markdown-all-in-one
+## YAML
+code --install-extension redhat.vscode-yaml
 ## rust関連
 code --install-extension rust-lang.rust
 code --install-extension be5invis.toml
@@ -23,9 +25,15 @@ code --install-extension bradlc.vscode-tailwindcss
 code --install-extension csstools.postcss
 ## GraphQL
 code --install-extension graphql.vscode-graphql
-## vue
+## Vue
 code --install-extension octref.vetur
+# https://github.com/johnsoncodehk/volar/discussions/471
+code --install-extension johnsoncodehk.volar
+## Prisma
+code --install-extension prisma.prisma
 ## lint
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension stylelint.vscode-stylelint
 code --install-extension esbenp.prettier-vscode
+## editorconfig.org
+code --install-extention editorconfig.editorconf
