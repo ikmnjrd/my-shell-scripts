@@ -11,6 +11,7 @@ code --install-extension ms-ceintl.vscode-language-pack-ja
 ## 便利ツール
 code --install-extension oderwat.indent-rainbow
 code --install-extension shardulm94.trailing-spaces
+code --install-extension bierner.docs-view
 ## draw.io
 code --install-extension hediet.vscode-drawio
 ## マークダウン
