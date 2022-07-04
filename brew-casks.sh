@@ -11,7 +11,6 @@ brew install --cask sublime-text
 brew install --cask google-cloud-sdk
 brew install --cask brave-browser
 brew install --cask gimp
-brew install --cask blackhole-2ch
 brew install --cask krisp
 brew install --cask corretto ## For local mock of AWS Amplify
 brew install --cask mysqlworkbench ## For MySQL
