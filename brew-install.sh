@@ -9,3 +9,4 @@ brew install wget
 brew install tree
 brew install gnupg
 brew install yarn --ignore-dependencies
+brew install neovim
