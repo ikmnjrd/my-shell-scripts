@@ -16,3 +16,4 @@ brew install fzf #https://github.com/junegunn/fzf
 $(brew --prefix)/opt/fzf/install
 brew install bat #https://github.com/sharkdp/bat
 brew install ripgrep #https://github.com/BurntSushi/ripgrep
+brew install jq #https://github.com/stedolan/jq
