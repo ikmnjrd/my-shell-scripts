@@ -13,7 +13,8 @@ brew install --cask brave-browser
 brew install --cask gimp
 brew install --cask krisp
 brew install --cask corretto ## For local mock of AWS Amplify
-brew install --cask mysqlworkbench ## For MySQL
+brew install --cask mysqlworkbench ## MySQL Client
+brew install --cask another-redis-desktop-manager ## Redis Client
 brew install --cask postman
 brew install --cask tweeten
 ## install google-cloud-sdk for zsh users
