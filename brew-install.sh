@@ -11,6 +11,7 @@ brew install gnupg
 brew install yarn --ignore-dependencies
 brew install neovim
 brew install pastel # https://github.com/sharkdp/pastel
+brew install fd #https://github.com/sharkdp/fd
 brew install fzf #https://github.com/junegunn/fzf
 # To install useful key bindings and fuzzy completion:
 $(brew --prefix)/opt/fzf/install
