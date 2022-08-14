@@ -5,6 +5,7 @@ brew install --cask alacritty
 brew install --cask docker
 brew install --cask google-chrome
 brew install --cask visual-studio-code
+brew install --cask notion
 brew install --cask firefox
 brew install --cask alfred
 #brew install --cask microsoft-edge
