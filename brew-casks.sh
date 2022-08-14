@@ -1,5 +1,6 @@
 #!/bin/bash
 brew install --cask iterm2
+brew install --cask alacritty
 brew install --cask docker
 brew install --cask google-chrome
 brew install --cask visual-studio-code
