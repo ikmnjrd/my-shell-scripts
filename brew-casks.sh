@@ -1,5 +1,5 @@
 #!/bin/bash
-#brew install --cask iterm2
+brew install --cask iterm2
 brew install --cask cmd-eikana
 brew install --cask alacritty
 brew install --cask docker
