@@ -1,7 +1,9 @@
 #!/bin/bash
 brew install --cask iterm2
 brew install --cask cmd-eikana
-brew install --cask alacritty
+#brew install --cask alacritty
+# RC版のインストールを手動で行っている
+# https://github.com/alacritty/alacritty/releases
 brew install --cask docker
 brew install --cask google-chrome
 brew install --cask visual-studio-code

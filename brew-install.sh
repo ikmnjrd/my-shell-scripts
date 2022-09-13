@@ -20,3 +20,5 @@ brew install ripgrep #https://github.com/BurntSushi/ripgrep
 brew install jq #https://github.com/stedolan/jq
 brew install glow #md-viewer https://github.com/charmbracelet/glow
 brew tap daipeihust/tap && brew install im-select #vim insert escape: https://github.com/daipeihust/im-select
+brew install koekeishiya/formulae/yabai
+brew install koekeishiya/formulae/skhd
