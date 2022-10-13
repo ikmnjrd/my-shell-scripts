@@ -22,5 +22,6 @@ brew install --cask mysqlworkbench ## MySQL Client
 brew install --cask another-redis-desktop-manager ## Redis Client
 brew install --cask postman
 brew install --cask tweeten
+brew install --cask 1password
 ## install google-cloud-sdk for zsh users
 # source "$(brew --prefix)/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.zsh.inc"
