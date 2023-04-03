@@ -9,14 +9,17 @@ code --install-extension hashicorp.terraform
 ## 日本語化
 code --install-extension ms-ceintl.vscode-language-pack-ja
 ## 便利ツール
+code --install-extension github.copilot
 code --install-extension oderwat.indent-rainbow
 code --install-extension shardulm94.trailing-spaces
 code --install-extension bierner.docs-view
 code --install-extension eamodio.gitlens
+code --install-extension streetsidesoftware.code-spell-checker
 ## draw.io
 code --install-extension hediet.vscode-drawio
 ## マークダウン
 code --install-extension yzhang.markdown-all-in-one
+code --install-extension bierner.markdown-mermaid
 ## YAML
 code --install-extension redhat.vscode-yaml
 ## rust関連
