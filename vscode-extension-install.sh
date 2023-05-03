@@ -15,6 +15,7 @@ code --install-extension shardulm94.trailing-spaces
 code --install-extension bierner.docs-view
 code --install-extension eamodio.gitlens
 code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension vsls-contrib.gistfs
 ## draw.io
 code --install-extension hediet.vscode-drawio
 ## マークダウン
