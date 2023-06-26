@@ -9,6 +9,7 @@ code --install-extension hashicorp.terraform
 ## 日本語化
 code --install-extension ms-ceintl.vscode-language-pack-ja
 ## 便利ツール
+code --install-extension github.vscode-github-actions
 code --install-extension github.copilot
 code --install-extension oderwat.indent-rainbow
 code --install-extension shardulm94.trailing-spaces
@@ -16,6 +17,8 @@ code --install-extension bierner.docs-view
 code --install-extension eamodio.gitlens
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension vsls-contrib.gistfs
+## figma
+code --install-extension figma.figma-vscode-extension-vscode-extension
 ## draw.io
 code --install-extension hediet.vscode-drawio
 ## マークダウン
