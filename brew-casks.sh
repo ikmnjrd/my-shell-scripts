@@ -21,7 +21,7 @@ brew install --cask krisp
 brew install --cask mysqlworkbench ## MySQL Client
 brew install --cask another-redis-desktop-manager ## Redis Client
 brew install --cask postman
-brew install --cask tweeten
+#brew install --cask tweeten
 brew install --cask 1password
 brew install --cask figma
 brew install --cask kindle
