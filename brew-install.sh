@@ -26,3 +26,4 @@ brew install watch # 定期実行
 brew tap daipeihust/tap && brew install im-select #vim insert escape: https://github.com/daipeihust/im-select
 brew install koekeishiya/formulae/yabai
 brew install koekeishiya/formulae/skhd
+brew install localstack/tap/localstack-cli # reproduction AWS in localhost: https://github.com/localstack/localstack
