@@ -27,7 +27,8 @@ code --install-extension bierner.markdown-mermaid
 ## YAML
 code --install-extension redhat.vscode-yaml
 ## rust関連
-code --install-extension rust-lang.rust
+#code --install-extension rust-lang.rust
+code --install-extension rust-lang.rust-analyzer
 code --install-extension be5invis.toml
 code --install-extension serayuzgur.crates
 ## CSS
