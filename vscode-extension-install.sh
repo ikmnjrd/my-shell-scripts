@@ -47,4 +47,4 @@ code --install-extension dbaeumer.vscode-eslint
 code --install-extension stylelint.vscode-stylelint
 code --install-extension esbenp.prettier-vscode
 ## editorconfig.org
-code --install-extention editorconfig.editorconf
+code --install-extension editorconfig.editorconf
