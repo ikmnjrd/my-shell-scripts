@@ -48,3 +48,5 @@ code --install-extension stylelint.vscode-stylelint
 code --install-extension esbenp.prettier-vscode
 ## editorconfig.org
 code --install-extension editorconfig.editorconf
+## Vim
+code --install-extension evscodevim.vim
