@@ -49,4 +49,4 @@ code --install-extension esbenp.prettier-vscode
 ## editorconfig.org
 code --install-extension editorconfig.editorconf
 ## Vim
-code --install-extension evscodevim.vim
+code --install-extension asvetliakov.vscode-neovim
